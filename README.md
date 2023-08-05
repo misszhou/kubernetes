@@ -10,4 +10,4 @@ Kubernetes常用组件和脚本
 
 
 示例代码
-- [update-kube-cert](https://github.com/misszhou/kubernetes/tree/master/update-kube-cert-main)：Spring update-kube-cert是K8S集群证书更新组件；
+- [update-kube-cert](https://github.com/misszhou/kubernetes/tree/master/update-kube-cert-main)： update-kube-cert是K8S集群证书更新组件；
